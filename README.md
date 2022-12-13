@@ -38,4 +38,4 @@ More information and additional material can be found here [Summary of Tutorials
   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W22/blob/main/solutions/Exercise_7_Solution.ipynb)
 - Week 8
   - [Exercise 8: Network Setup and First Training - part 2](https://colab.research.google.com/github/CS4MS/CS4MS_W22/blob/main/exercises/Exercise_8.ipynb)
-  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W22/blob/main/solutions/Exercise_8_Solution.ipynb) -->
+  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W22/blob/main/solutions/Exercise_8_Solution.ipynb)
